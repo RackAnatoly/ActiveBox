@@ -1,1 +1,1 @@
-https://github.com/RackAnatoly/ActiveBox/blob/main/index.html
+https://rackanatoly.github.io/activebox
